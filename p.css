@@ -1,0 +1,28 @@
+p{
+            background-color: blue;
+            color: beige;
+            border: 2px solid black;
+        }
+
+        h1{
+            color: red;
+            border: 5px solid black;
+        }
+
+        .minhaClasse{
+           background-color: orange; 
+        }
+
+        .minhaClasse2{
+           background-color: black;
+           color: orange; 
+        }
+
+        .removeBorda{
+            border: none;
+            background-color: white;
+        }
+
+        #idObjeto{
+            border: 20px solid red;
+        }
